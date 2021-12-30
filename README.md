@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashantmoroliya
-- 👀 I’m interested in Star Wars, Android and Python
+- 👀 I’m interested in Star Wars, Android, Python and Artificial Intelligence
 - 🌱 I’m currently learning Game Development on Unreal Engine
 - 💞️ I’m looking to collaborate on whateva... just tell me.
 - 📫 How to reach me ...
