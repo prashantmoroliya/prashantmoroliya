@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Game Development on Unreal Engine
 - 💞️ I’m looking to collaborate on whateva... just tell me.
 - 📫 How to reach me ...
-- Discord: Darth Vader#8472
+- Discord: darthvader0202
 - ig: prashantmoroliya
 - email: prashantmoroliya@gmail.com
 - tweet @pkmoroliya (I know)
