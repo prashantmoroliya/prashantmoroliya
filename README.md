@@ -14,4 +14,4 @@
 prashantmoroliya/prashantmoroliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://drive.google.com/file/d/1NgcQkb2xvGNjkbI_alpC3mlMAsqDQJTU/view?usp=sharing">
+<img src="https://i.ibb.co/G575wjT/anime-2-colored-scale-4.gif">
